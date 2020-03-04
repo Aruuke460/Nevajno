@@ -5,6 +5,11 @@ public class ProjectClass {
         System.out.println("it is me");
     
         System.out.println("Who else is in this project?");
+        System.out.println("Hello guys");
+
+        System.out.println("it is me");
+
+        System.out.println("Who else is in this project?");
     }
 }
 
