@@ -15,6 +15,7 @@ public class ProjectClass {
         System.out.println(a+b);
         String date = "March3";
         System.out.println(date);
+        System.out.println("I LOVE MYSHYK");
     }
 }
 
