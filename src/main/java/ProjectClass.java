@@ -13,6 +13,8 @@ public class ProjectClass {
         int a =0;
         int b =4;
         System.out.println(a+b);
+        String date = "March3";
+        System.out.println(date);
     }
 }
 
